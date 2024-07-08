@@ -1,0 +1,5 @@
+The video required for the training and testing of the dataset can be found here:
+
+https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips
+
+https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1
